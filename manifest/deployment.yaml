@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: iqraijaz/k8s-manifest:24
+        image: iqraijaz/k8s-manifest:37
         ports:
         - containerPort: 80
 ---
